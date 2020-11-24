@@ -70,6 +70,13 @@ body {
 }
 
 #sections {
+   background-color: #496d6b;
+   position: fixed;
+   vertical-align: bottom;
+   align-items: center;
+   width: 100%;
+   margin-top: 350px;
+   padding-left: 40px;
    
 }
 
