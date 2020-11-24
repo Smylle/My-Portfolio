@@ -1,0 +1,38 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: monospace;
+    border: ;
+}
+
+body {
+    background-color: #598381;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+#background-list {
+    background-color: darkseagreen;
+}
+
+.Importancia1 {
+    font-size: larger;
+    background-color: honeydew;
+    font-weight: bolder;
+    font-weight: 900;
+}
+
+.Importancia2 {
+    font-weight: 600;
+    font-size: medium;
+    background-color: honeydew;
+}
+
+.Importancia3 {
+    background-color: honeydew;
+    font-size: x-large;
+}
