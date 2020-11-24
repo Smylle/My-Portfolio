@@ -36,3 +36,40 @@ body {
     background-color: honeydew;
     font-size: x-large;
 }
+
+#description {
+    background-color: khaki;
+    float: left;
+    margin-top: 120px;
+    margin-left: 50px;
+    padding: 2px;
+    text-align: center;
+
+}
+
+#picture {
+    background-color: lightcoral;
+    float: left;
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 26px;
+}
+
+#habilities {
+  
+}
+
+#name {
+}
+
+#article {
+
+}
+
+#sections {
+   
+}
+
+#link-pic {
+    
+}
