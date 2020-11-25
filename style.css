@@ -37,49 +37,50 @@ body {
     font-size: x-large;
 }
 
-#description {
-    background-color: khaki;
-    float: left;
-    margin-top: 120px;
-    margin-left: 50px;
-    padding: 2px;
+#name {
     text-align: center;
+    background-color: teal;
+}
+
+#bcg-top {
+    background-color: teal;
+    padding: 100px; 
+    margin: 0 0 -250px 0;
+    position: relative;
 
 }
 
 #picture {
     background-color: lightcoral;
     float: left;
-    padding: 3px;
-    padding-top: 8px;
-    align-items: center;
-    margin-left: 40px;
-    margin-top: 15px;
+
 }
 
-#habilities {
-  
-}
+#description {
+    background-color: khaki;
+    margin-left: -10px;
+    text-align: end;
+    width: 50%;
 
-#name {
-    text-align: center;
 }
 
 #article {
+    background-color: #496d6b;
 
+}
+
+#habilities {
+    background-color: #496d6b;
+    margin-top: 280px;
+    text-align: start;
+    width: 16%;
 }
 
 #sections {
    background-color: #496d6b;
-   position: fixed;
-   vertical-align: bottom;
-   align-items: center;
-   width: 100%;
-   margin-top: 350px;
-   padding-left: 40px;
-   
+      
 }
 
 #link-pic {
-    
+    background-color: teal;
 }
